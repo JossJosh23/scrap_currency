@@ -12,4 +12,4 @@ Este script añade una moneda de supervivencia basada en chatarra para tu servid
 
 1. Clona este repositorio en tu carpeta de recursos de FiveM:
    ```bash
-   git clone https://github.com/tuusuario/scrap_currency.git
+   git clone https://github.com/JossJosh23/scrap_currency.git
